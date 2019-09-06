@@ -1,0 +1,15 @@
+16;Natureza?
+8;Moderno?
+24;Habitado?
+4;Era Moderna?
+12;Lojas?
+20;Fauna?
+28;Neve?
+2;Sacro?
+6;Arquitetura?
+10;Eventos?
+14;Comida?
+18;Florestas?
+22;Incomum?
+26;Rural?
+30;Montanhas?

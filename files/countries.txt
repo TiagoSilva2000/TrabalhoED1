@@ -1,0 +1,16 @@
+1;Greece
+3;Vatican
+5;England
+7;Denmark
+9;Istanbul
+11;Italy
+13;Germany
+15;France
+17;Poland
+19;Sweden
+21;Portugal
+23;Slovenia
+25;Croatia
+27;Spain
+29;Estonia
+31;Norway
